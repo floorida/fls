@@ -1,0 +1,12 @@
+/home/bigman/rust-proj/smth/target/rls/debug/deps/proc_macro2-9339b36de161dc36.rmeta: /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/lib.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/marker.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/parse.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/detection.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/fallback.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/wrapper.rs
+
+/home/bigman/rust-proj/smth/target/rls/debug/deps/libproc_macro2-9339b36de161dc36.rlib: /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/lib.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/marker.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/parse.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/detection.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/fallback.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/wrapper.rs
+
+/home/bigman/rust-proj/smth/target/rls/debug/deps/proc_macro2-9339b36de161dc36.d: /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/lib.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/marker.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/parse.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/detection.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/fallback.rs /home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/wrapper.rs
+
+/home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/lib.rs:
+/home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/marker.rs:
+/home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/parse.rs:
+/home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/detection.rs:
+/home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/fallback.rs:
+/home/bigman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.34/src/wrapper.rs:
